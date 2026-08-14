@@ -36,7 +36,7 @@ export function Logistics() {
         <div className="relative">
           <div className="overflow-hidden rounded-xl border border-white/10">
             <img
-              src="/images/logistics-truck.png"
+              src="./images/logistics-truck.png"
               alt={t.logistics.imgAlt}
               className="h-full w-full object-cover"
             />

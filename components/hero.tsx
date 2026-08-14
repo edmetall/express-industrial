@@ -18,7 +18,7 @@ export function Hero() {
     <section className="relative overflow-hidden bg-[#0b1220] text-white">
       <div className="absolute inset-0">
         <img
-          src="/images/hero-warehouse.png"
+          src="./images/hero-warehouse.png"
           alt={t.hero.imgAlt}
           className="h-full w-full object-cover opacity-40"
         />
